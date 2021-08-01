@@ -16,6 +16,6 @@ https://user-images.githubusercontent.com/72247207/127784064-20b777b8-edb3-488a-
 Compressed Image size in Bytes
 ![WhatsApp Image 2021-08-02 at 1 38 27 AM](https://user-images.githubusercontent.com/72247207/127784068-58ca56c5-f95d-4983-b310-72f6a3827d53.jpeg)
 ![WhatsApp Image 2021-08-02 at 1 44 38 AM](https://user-images.githubusercontent.com/72247207/127784230-699e2742-522a-43be-b9b2-b758f8906ce3.jpeg)
-![WhatsApp Image 2021-08-02 at 1 38 27 AM](https://user-images.githubusercontent.com/72247207/127784235-70bbaf69-5f24-4ec5-9b57-fec5964b8599.jpeg)
+
 
 
