@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836474689748",
+    "firebase_url": "https://applore-technologies-default-rtdb.firebaseio.com",
+    "project_id": "applore-technologies",
+    "storage_bucket": "applore-technologies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836474689748:android:9e35da65db602640be8341",
+        "android_client_info": {
+          "package_name": "com.thefluttercommunity.applore_techno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836474689748-242fgm2n5424em7aqml6bebuba9ud93j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOqowyO_xt0fQ8FT0dn-jht6KCEo5DVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836474689748-242fgm2n5424em7aqml6bebuba9ud93j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
